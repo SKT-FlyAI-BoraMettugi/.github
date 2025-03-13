@@ -53,6 +53,9 @@ SKT ZEM과 연계하여 안전한 학습 환경을 조성하고, 부모가 학�
 ![Flow Chart 이미지](https://github.com/user-attachments/assets/89111e20-5722-47cd-867f-ddd136262d30)
 
 
+## 시스템 아키텍처 
+![시스템 아키텍처 이미지](https://github.com/user-attachments/assets/b7ab0027-acf6-4ee3-b7cc-e50a30321091)
+
 
 ## 자료
 [최종 발표 자료](https://drive.google.com/file/d/1GSrTuqAw3F_AZ0hUUL0xcAbJ1GQENRd1/view?usp=sharing)
